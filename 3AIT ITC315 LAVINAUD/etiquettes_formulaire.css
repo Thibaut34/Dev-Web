@@ -1,0 +1,7 @@
+h1 {font-size: 18pt;}
+label {
+    width: 100px;
+    text-align: left;
+    display: flow;
+    vertical-align: baseline;
+}
